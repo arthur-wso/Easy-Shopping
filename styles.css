@@ -67,6 +67,7 @@ button {
     color: #ffffff;
     cursor: pointer;
 }
+
 button:hover {
     opacity: .8;
 }
@@ -144,6 +145,6 @@ header {
         margin: 0 auto;
         display: block;
 
-        
+
     }
 }
