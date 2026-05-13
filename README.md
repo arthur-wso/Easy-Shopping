@@ -13,6 +13,3 @@
 <br>
 <h3>Versão para Mobile</h3>
 <img src="https://github.com/user-attachments/assets/f210c338-e7b6-423e-8063-b29a29ce4962" height="350px" />
-<br><br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-wso&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
